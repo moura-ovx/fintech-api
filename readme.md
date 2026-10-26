@@ -120,4 +120,4 @@ Para simplificar a execução do projeto sem a necessidade de instalar e configu
 
 Desenvolvido por: **Gustavo Moura**
 
-* **LinkedIn:** [linkedin.com/in/gustavo-barbosa](www.linkedin.com/in/gustavo-barbosa-112846440)
+* **LinkedIn:** www.linkedin.com/in/gustavo-barbosa-112846440
