@@ -92,7 +92,7 @@ Para simplificar a execução do projeto sem a necessidade de instalar e configu
 1. **Clonar o repositório:**
 
    ```
-   git clone https://github.com/SEU-USUARIO/fintech.git
+   git clone https://github.com/moura-ovx/fintech.git
    cd fintech
    
    ```
