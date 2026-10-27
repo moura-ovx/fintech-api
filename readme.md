@@ -1,6 +1,6 @@
 # 💰 Fintech API - Gestão de Finanças Pessoais
 
-API RESTful desenvolvida com **Spring Boot** para gerenciamento de finanças pessoais. O sistema permite o controle centralizado de usuários, categorias de despesas e receitas, lançamentos financeiros e metas de economia, para um sistema que estou construindo.
+API RESTful desenvolvida com **Spring Boot** para gerenciamento de finanças pessoais. O sistema permite o controle centralizado de usuários, categorias de despesas e receitas, lançamentos financeiros e metas de economia para um sistema que estou construindo.
 
 ## 🛠️ Tecnologias Utilizadas
 
